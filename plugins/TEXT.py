@@ -9,12 +9,12 @@ MEGA_EMAIL = "bearyan8@yandex.com"
 MEGA_PASSWORD = "bearyan8@yandex.com"
 
 
-START = " 𝗛𝗶𝗶 {}\n𝗜 𝗮𝗺 𝗚𝗼𝗼𝗴𝗹𝗲 𝗗𝗿𝗶𝘃𝗲 𝗨𝗽𝗹𝗼𝗮𝗱𝗲𝗿 𝗕𝗼𝘁 𝗰𝗿𝗲𝗮𝘁𝗲𝗱 𝗯𝘆 @pyrogrammers Please /auth To use me.Hit /help to get more information.I also support mega.nz,Openload links and dropbox link 🤫."
+START = " 𝗛𝗶𝗶 {},\n𝗜 𝗮𝗺 𝗚𝗼𝗼𝗴𝗹𝗲 𝗗𝗿𝗶𝘃𝗲 𝗨𝗽𝗹𝗼𝗮𝗱𝗲𝗿 𝗕𝗼𝘁 𝗰𝗿𝗲𝗮𝘁𝗲𝗱 𝗯𝘆 @pyrogrammers.\n Please /auth to login to your account.\nI also support mega.nz,Openload links and dropbox link 🤫."
 
 HELP = """
 Use /auth Command Generate Google drive api token and send it to bot.
 Use /revoke to logout from bot.            
-Use /help to get this message 😜.
+Use /help to get this message.
         """
 DP_DOWNLOAD = "Dropbox Link !! ⏳ Downloading Started ..."
 OL_DOWNLOAD = "Openload Link !! ⏳ Downloading Started ..."
